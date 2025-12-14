@@ -1,0 +1,15 @@
+{
+  "sample_id": "5.0",
+  "lat": 21.2169498609373,
+  "lon": 72.90308856945033,
+  "has_solar": false,
+  "confidence": 0.0,
+  "pv_area_sqm_est": 0.0,
+  "buffer_radius_sqft": 1200,
+  "qc_status": "PENDING",
+  "bbox_or_mask": null,
+  "image_metadata": {
+    "source": "ESRI",
+    "capture_date": "UNKNOWN"
+  }
+}

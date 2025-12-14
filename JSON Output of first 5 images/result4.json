@@ -1,0 +1,32 @@
+{
+  "sample_id": "4.0",
+  "lat": 21.13615924045998,
+  "lon": 72.79990571527482,
+  "has_solar": true,
+  "confidence": 0.879,
+  "pv_area_sqm_est": 136.0,
+  "buffer_radius_sqft": 1200,
+  "qc_status": "VERIFIABLE",
+  "bbox_or_mask": [
+    [
+      278,
+      114
+    ],
+    [
+      278,
+      133
+    ],
+    [
+      297,
+      133
+    ],
+    [
+      297,
+      114
+    ]
+  ],
+  "image_metadata": {
+    "source": "ESRI",
+    "capture_date": "UNKNOWN"
+  }
+}

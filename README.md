@@ -4,6 +4,9 @@ A YOLOv8s-seg based model that detects solar panels installed on roofs in a 640x
 # How To Use
 Clone the repo and run on your preferred python IDE
 
+# Docker
+premithius/ecoinnovators_ideathon_2026_void_crew:latest
+
 # Credits
 ## Data Attribution
 
